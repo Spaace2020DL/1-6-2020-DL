@@ -1,77 +1,12 @@
 [
     {
         "role": "owner",
-        "name": "Microwaveee",
+        "name": "Spaace",
         "link": "https://www.youtube.com/channel/UC4BZvLEre3SrihXXL-eItWg"
     },
     {
         "role": "owner",
-        "name": "Davine_007",
+        "name": "Novaa",
         "link": "https://www.youtube.com/channel/UCdFZfQWXHkJkofMyorv0ccw"
-    },
-    {
-        "role": "admin",
-        "name": "TravelChimp",
-        "link": "https://youtube.com/channel/UC_iEmvCmkuJWqoRbGM49GOA"
-    },
-    {
-        "role": "admin",
-        "name": "Ryoui",
-        "link": "https://www.youtube.com/channel/UCbon_JIcGDqic5lJj3-8L-w"
-    },
-    {
-        "role": "admin",
-        "name": "Prometheus",
-        "link": "https://www.youtube.com/c/PrometheusAlt"
-    },
-    {
-        "role": "helper",
-        "name": "homegrowntag",
-        "link": "https://www.youtube.com/channel/UCtPsZ68MCked5rgimzzX7Hw"
-    },
-    {
-        "role": "helper",
-        "name": "ThinCrust",
-        "link": "https://www.youtube.com/channel/UCW0SgOGd9y6yHk5buJ81JfQ"
-    },
-    {
-        "role": "trial",
-        "name": "Sorry m8",
-        "link": "https://www.youtube.com/channel/UC7F3s5NZJTxALDAWMNvJJbA"
-    },
-    {
-        "role": "trial",
-        "name": "sarcasticmuch",
-        "link": "https://www.youtube.com/channel/UCH4iSascx58Bfue2cfpWKJQ"
-    },
-    {
-        "role": "trial",
-        "name": "RealBigFlopa",
-        "link": "https://www.youtube.com/channel/UCnbbHfbjQpVib5NqYTNIe-A"
-    },
-    {
-        "role": "trial",
-        "name": "lucap123",
-        "link": "https://www.youtube.com/@lucap123gd8"
-    },
-    {
-        "role": "trial",
-        "name": "qzkk",
-        "link": "https://www.youtube.com/channel/UCqwvL2i0iZbv54nM-1Eqb3Q"
-    },
-    {
-        "role": "trial",
-        "name": "srus",
-        "link": "https://www.youtube.com/channel/UCZWCsnRMKs7VSyO094YeyJw"
-    },
-    {
-        "role": "dev",
-        "name": "Prometheus",
-        "link": "https://www.youtube.com/c/PrometheusAlt"
-    },
-    {
-        "role": "dev",
-        "name": "Emonadeo",
-        "link": "https://github.com/Emonadeo"
     }
 ]
