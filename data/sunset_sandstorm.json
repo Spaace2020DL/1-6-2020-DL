@@ -1,54 +1,10 @@
 {
-    "id": 81051306,
-    "name": "Shitty Sunset Sandstorm",
-    "author": "Lil_Creator",
+    "id": 55547703,
+    "name": "Sunset Sandstorm",
+    "author": "chron44",
     "creators": [],
-    "verifier": "Riptide",
-    "verification": "https://youtu.be/BHF_xnnO7Ew",
-    "showcase": "https://youtu.be/eZ33m5pzE0g",
+    "verifier": "chron44",
+    "verification": "https://www.youtube.com/watch?v=5ary4apA0WA",
     "percentToQualify": 52,
-    "records": [
-        {
-            "user": "RazerJCZ",
-            "link": "https://youtu.be/fGIX8kZvOtk",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "biskit",
-            "link": "https://www.youtube.com/watch?v=6SkJAuAhQUU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Shel",
-            "link": "https://youtu.be/7aI0V0SJJKs",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "zCodeB0y",
-            "link": "https://youtu.be/jnPHtDSIsrU",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "zAbyss",
-            "link": "https://youtu.be/TvS-czk0k8A",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "WellNot",
-            "link": "https://youtu.be/m6q2iADntxg",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "KasiaUwU",
-            "link": "https://youtu.be/beZxSbyMOiM",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+    "records": []
 }
