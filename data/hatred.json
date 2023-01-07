@@ -1,23 +1,11 @@
 {
     "id": 77818323,
-    "name": "Shitty Hatred",
-    "author": "Prometheus",
-    "creators": [
-        "Prometheus",
-        "Majesstic",
-        "Sorrym8",
-        "Experience43"
-    ],
-    "verifier": "KylashTheKiller",
-    "verification": "https://youtu.be/JlZleqA8TFc",
-    "percentToQualify": 100,
+    "name": "Hatred",
+    "author": "AZuLer4",
+    "creators": ["AZuLer4 and SrGuillester"],
+    "verifier": "Spaace",
+    "verification": "https://www.youtube.com/watch?v=XwKCQvhjXZg",
+    "percentToQualify": 47,
     "password": "Free to Copy",
-    "records": [
-        {
-            "user": "Spaace",
-            "link": "https://www.youtube.com/watch?v=XwKCQvhjXZg",
-            "percent": 100,
-            "hz": 144
-        }
-    ]
+    "records": []
 }
