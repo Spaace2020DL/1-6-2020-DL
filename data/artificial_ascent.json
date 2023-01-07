@@ -1,37 +1,10 @@
 {
-    "id": 82363535,
-    "name": "Shitty Artificial Ascent",
-    "author": "Prometheus",
-    "creators": [
-        "Prometheus",
-        "Atotakai",
-        "TravelChimp",
-        "L0GAN",
-        "Mau3cio",
-        "iRaily",
-        "Sovola",
-        "zFice7",
-        "Fernamg2041",
-        "CarlIsBored",
-        "chspchips",
-        "70n0fh4y"
-    ],    
-    "verifier": "LBoke",
-    "verification": "https://youtu.be/j5mbrnnwOp0",
-    "showcase": "https://youtu.be/BEYMkgpX198",
+    "id": 27122654,
+    "name": "Artificial Ascent",
+    "author": "ViPriN",
+    "creators": ["Hinds, ViPriN, Codex, Manix648, Sanic, Zobros, Michigun, Anthrax, ZenthicAlpha, Loogiah, wamiq8, nasgubb, AbstractDark, Etzer, Serponge, G4lvatron, Terron, AncientAnubis, GDSpeed"],    
+    "verifier": "combi",
+    "verification": "https://www.youtube.com/watch?v=laok-nI3-t8",
     "percentToQualify": 62,
-    "records": [
-        {
-            "user": "Telex",
-            "link": "https://youtu.be/VU7MhNfPedk",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "KasiaUwU",
-            "link": "https://youtu.be/FDAnNKszWdQ",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+    "records": []
 }
