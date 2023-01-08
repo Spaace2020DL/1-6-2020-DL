@@ -1,41 +1,10 @@
 {
-    "id": 84670628,
-    "name": "Shitty Maybe Possibly Thing",
-    "author": "Sovola",
-    "creators": [
-        "Sovola",
-        "Dofar",
-        "Chsp",
-        "Prometheus",
-        "Kiwi1938"
-    ],
-    "verifier": "Dofar",
-    "verification": "https://youtu.be/L4iWB6BLxUU",
+    "id": 60284098,
+    "name": "Maybe Possibly Thing",
+    "author": "iNubble",
+    "creators": [],
+    "verifier": "YakobNugget",
+    "verification": "https://www.youtube.com/watch?v=u7dBdD531As",
     "percentToQualify": 100,
-    "records": [
-        {
-            "user": "DeNora17",
-            "link": "https://www.youtube.com/watch?v=mbOcPMnQ2pg",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Moisty",
-            "link": "https://youtu.be/Uq1Z0yZUGhY",
-            "percent": 100,
-            "hz": 288
-        },
-        {
-            "user": "homegrowntag",
-            "link": "https://youtu.be/dAniGtaycNM",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Rixen Ace",
-            "link": "https://youtube.com/watch?v=LdDa6-18ThU&feature=shares",
-            "percent": 100,
-            "hz": 165
-        }
-    ]
+    "records": []
 }
